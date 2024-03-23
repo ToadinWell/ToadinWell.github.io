@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "우물 안 맹꽁이"
+title                    : "**우물 안 맹꽁이**"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "우물 안 "
 description              : "An amazing website."
 url                      : "https://ToadinWell.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
