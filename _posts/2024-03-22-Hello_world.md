@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
+typora-root-url:../
 ---
 # 좁은 시야로 넓은 세상을 보려합니다.
 
