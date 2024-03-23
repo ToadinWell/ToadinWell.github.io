@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-typora-root-url:../
+typora-root-url: ../
 ---
 # 우물 안 세상보기
 
